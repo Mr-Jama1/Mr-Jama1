@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Oluwaferanmi A. 👋
 
-<!--
-**Mr-Jama1/Mr-Jama1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Python Automation Expert | Appwrite & Flutter Developer
+I specialize in turning manual, time-consuming tasks into efficient, automated workflows. My focus is on building "human-centric" software that simplifies complex data challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Dart (Flutter), SQL
+- **Automation:** Selenium, BeautifulSoup, API Integrations
+- **Backends:** Appwrite, Firebase, Cloud Firestore
+- **Tools:** Git/GitHub, VS Code, Postman
+
+---
+
+### 📂 Featured Projects
+- **FluxVault:** A custom Python automation engine for batch-injecting data into cloud backends.
+- **FUO Lost & Found:** A full-stack cross-platform mobile app built with Flutter and Appwrite.
+- **Route Recommendation System:** An AI-driven navigation logic for optimized transit.
+
+---
+
+### ✍️ Technical Writing
+I am a contributor to the **Net-Centric Computing Textbook Project**, authoring 5,000+ words on client-server architectures and IT Law.
+
+---
+
+### 📫 Let's Connect
+- 💼 [Upwork Profile] (https://www.upwork.com/freelancers/~01a8a39f36db2f189b?mp_source=share)
+- 📧 [oluwaferanmi-abduljamal@proton.me]
