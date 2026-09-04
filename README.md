@@ -26,5 +26,4 @@ I am a contributor to the **Net-Centric Computing Textbook Project**, authoring 
 ---
 
 ### Let's Connect
-- 💼 [Upwork Profile] (https://www.upwork.com/freelancers/~01a8a39f36db2f189b?mp_source=share)
-- 📧 [oluwaferanmi-abduljamal@proton.me]
+[oluwaferanmi-abduljamal@proton.me]
